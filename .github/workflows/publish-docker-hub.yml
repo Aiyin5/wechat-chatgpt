@@ -1,7 +1,7 @@
 name: Publish Docker image
 
 on:
-  # Test pub with dev tag
+  #pub with dev tag
   push:
     branches:
       - main
